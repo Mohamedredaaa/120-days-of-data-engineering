@@ -1,6 +1,66 @@
 # 120-Day Data Engineering Roadmap
 
-This roadmap is designed to provide a **comprehensive and structured approach** to becoming a data engineer. It includes **daily tasks**, **weekly goals**, and **monthly capstone projects** to ensure hands-on practice and real-world application.
+This **120-day roadmap** is designed to provide a **comprehensive and structured approach** to becoming a data engineer. It includes **daily tasks**, **weekly goals**, and **monthly capstone projects** to ensure hands-on practice and real-world application. By following this roadmap, you will gain the skills and knowledge needed to excel in the field of data engineering.
+
+---
+
+## **Prerequisites**
+
+Before starting the roadmap, ensure you have the following prerequisites:
+
+### **1. Basic Programming Knowledge**
+- **Python**: Familiarity with Python basics (variables, loops, functions, data structures like lists and dictionaries).
+  - **Resource**: [Python for Everybody](https://www.coursera.org/specializations/python) (Coursera)
+- **SQL**: Basic understanding of SQL (querying databases, filtering, sorting, and aggregating data).
+  - **Resource**: [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science) (Coursera)
+
+### **2. Familiarity with Command Line**
+- Basic knowledge of using the command line (Terminal for macOS/Linux, Command Prompt/PowerShell for Windows).
+  - **Common commands**: `cd`, `ls`, `mkdir`, `rm`, `cp`, `mv`, etc.
+  - **Resource**: [Command Line Basics](https://www.codecademy.com/learn/learn-the-command-line) (Codecademy)
+
+### **3. Version Control (Git)**
+- Basic understanding of Git and GitHub (cloning repositories, committing changes, creating branches, and pushing code).
+  - **Resource**: [Git and GitHub for Beginners](https://www.udemy.com/course/git-and-github-bootcamp/) (Udemy)
+
+### **4. Basic Understanding of Databases**
+- Know the difference between relational (SQL) and non-relational (NoSQL) databases.
+- Basic understanding of tables, rows, columns, and primary/foreign keys.
+  - **Resource**: [Introduction to Databases](https://www.coursera.org/learn/intro-to-databases) (Coursera)
+
+### **5. Basic Math and Statistics**
+- Basic understanding of concepts like mean, median, standard deviation, and probability.
+  - **Resource**: [Introduction to Statistics](https://www.khanacademy.org/math/statistics-probability) (Khan Academy)
+
+### **6. Tools and Software**
+- **Python**: Install Python (version 3.8 or higher) and set up a development environment (e.g., VS Code, PyCharm, or Jupyter Notebook).
+- **SQL**: Install a relational database like MySQL or PostgreSQL.
+- **Docker**: Install Docker to set up local environments for tools like Kafka, Cassandra, and ELK Stack.
+  - **Resource**: [Docker Installation Guide](https://docs.docker.com/get-docker/)
+- **Cloud Accounts**: Create free-tier accounts on AWS, GCP, and Azure (optional but recommended for cloud-native projects).
+
+### **7. Learning Mindset**
+- **Time Commitment**: Dedicate at least 2-3 hours per day to follow the roadmap effectively.
+- **Problem-Solving Skills**: Be prepared to debug errors, read documentation, and solve problems independently.
+- **Curiosity**: Stay curious and explore additional resources when needed.
+
+### **Optional but Helpful Prerequisites**
+- **Basic Linux Knowledge**: Familiarity with Linux commands and file systems.
+- **Data Analysis Basics**: Understanding of data analysis concepts (e.g., data cleaning, visualization).
+- **APIs**: Basic knowledge of how APIs work and how to interact with them using Python.
+
+---
+
+## **How to Check If You’re Ready**
+- Can you write a Python script to read a CSV file and perform basic operations (e.g., filtering, sorting)?
+- Can you write SQL queries to retrieve data from a database?
+- Are you comfortable using Git to clone a repository and push changes?
+- Can you set up a local database (e.g., MySQL or PostgreSQL)?
+- Are you familiar with basic command-line operations?
+
+If you answered **yes** to most of these questions, you’re ready to start the roadmap! If not, spend a week or two brushing up on the prerequisites.
+
+---
 
 ---
 

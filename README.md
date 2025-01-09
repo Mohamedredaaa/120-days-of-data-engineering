@@ -420,6 +420,5 @@ If you answered **yes** to most of these questions, you’re ready to start the 
 ### **What’s Next After the 120 Days?**  
 After completing the **120-Day Data Engineering Roadmap**, it’s time to put your skills into practice! Start building real-world projects with **[Data Engineering Projects Repository](https://github.com/garage-education/data-engineering-projects)**. This repo is packed with hands-on projects to help you solidify your knowledge, experiment with new tools, and showcase your expertise.  
 
-The roadmap is just the beginning—let’s keep learning, building, and innovating! 🌟  
+The roadmap is just the beginning—let’s keep learning, building, and innovating! 🌟   Let me know if you need further
 
-This **120-day roadmap** provides a **comprehensive and structured approach** to becoming a data engineer, with **detailed daily tasks**, **weekly goals**, and **monthly capstone projects**. Let me know if you need further
